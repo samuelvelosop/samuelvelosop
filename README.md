@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuelvelosop
-- 👀 I’m interested in insurances, retail and healthcare
+- 👀 I’m interested in insurance, retail and healthcare
 - 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on everything you see fit in me
 - 📫 Reach me on twitter @samuelvelosop_
